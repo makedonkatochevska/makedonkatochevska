@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Makedonka!
 #### Passionate front-end developer who loves turning complex problems into simple, user-friendly designs.
-![Passionate front-end developer who loves turning complex problems into simple, user-friendly designs.](https://i.imghippo.com/files/RyCT5494iM.png)
+![Passionate front-end developer who loves turning complex problems into simple, user-friendly designs.](https://i.imghippo.com/files/ZnAQ7495pU.png)
 
 With my 2+ years of experience in Website Design and Development, I combine the art of design with the science of coding to create websites that are not only visually striking but also intuitive and functional. With an eye for detail and a heart full of passion I pour my soul into every project to ensure it not only meets but exceeds expectations.
 
@@ -10,6 +10,7 @@ With my 2+ years of experience in Website Design and Development, I combine the 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
