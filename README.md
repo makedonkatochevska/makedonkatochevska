@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @makedonkatochevska, I’m a passionate front-end developer who loves turning complex problems into simple, user-friendly designs.
-- 👀 I’m interested in creating intuitive user experiences, learning new front-end frameworks, and improving performance to build smooth, responsive websites.
-- 🌱 I’m currently learning Bootstrap and JavaScript, while mastering my knowledge in CSS and SASS to create more polished and maintainable styles.
-- 💞️ I’m looking to collaborate on projects related to UI/UX design, responsive web apps, and any cool open-source front-end projects!
-- 📫 You can reach me on Linkedin @makedonka-tochevska or through email at makedonkatochevska@gmail.com
-- ⚡ Fun fact: I’m a perfectionist at heart—I want everything to be perfectly done! I have a checklist for just about everything, which helps me stay organized and on top of my tasks.
+### Hi there 👋, I'm Makedonka!
+#### Passionate front-end developer who loves turning complex problems into simple, user-friendly designs.
+![Passionate front-end developer who loves turning complex problems into simple, user-friendly designs.](https://i.imghippo.com/files/RyCT5494iM.png)
+
+With my 2+ years of experience in Website Design and Development, I combine the art of design with the science of coding to create websites that are not only visually striking but also intuitive and functional. With an eye for detail and a heart full of passion I pour my soul into every project to ensure it not only meets but exceeds expectations.
+
+Skills: HTML / CSS / SASS
+
+- 🌱 I’m currently learning JavaScript, React JS and Next JS 
+- 👯 I’m looking to collaborate on any cool front-end projects! 
+- 📫 How to reach me: on Linkedin @makedonka-tochevska or through email at makedonkatochevska@gmail.com 
+- ⚡ Fun fact:  I’m a perfectionist at heart—I want everything to be perfectly done! I have a checklist for just about everything, which helps me stay organized and on top of my tasks. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/makedonkatochevska)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/makedonka-tochevska/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tochevskaa/)  
+
+
 
 
