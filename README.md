@@ -29,6 +29,7 @@ I love solving problems and optimizing systems, whether it’s improving perform
 - 📫 You can reach me on Linkedin or through email at makedonkatochevska@gmail.com
 
 ## 🌐 Socials:
+![Static Badge](https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=black&logoSize=auto&labelColor=white&color=white&cacheSeconds=3600&link=https%3A%2F%2Fgithub.com%2Fmakedonkatochevska)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/makedonka-tochevska) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tochevskaa) 
 
 
