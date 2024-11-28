@@ -2,7 +2,8 @@
 #### Passionate front-end developer who loves turning complex problems into simple, user-friendly designs.
 ![Passionate front-end developer who loves turning complex problems into simple, user-friendly designs.](https://i.imghippo.com/files/ZnAQ7495pU.png)
 
-With my 2+ years of experience in Website Design and Development, I combine the art of design with the science of coding to create websites that are not only visually striking but also intuitive and functional. With an eye for detail and a heart full of passion I pour my soul into every project to ensure it not only meets but exceeds expectations.
+With over 2+ years of web development and web design experience, I specialize in creating dynamic, high-performance websites through clean and efficient code. I focus on turning complex ideas into seamless, functional digital experiences, ensuring every detail works flawlessly behind the scenes.
+I love solving problems and optimizing systems, whether it’s improving performance or ensuring cross-browser compatibility. The real satisfaction comes from knowing my code powers websites that people interact with daily.
 
 ⚡ Fun fact:  I’m a perfectionist at heart—I want everything to be perfectly done! I have a checklist for just about everything, which helps me stay organized and on top of my tasks. 
 
