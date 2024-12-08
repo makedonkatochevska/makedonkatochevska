@@ -33,8 +33,6 @@ I love solving problems and optimizing systems, whether it’s improving perform
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/makedonka-tochevska) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tochevskaa) 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=makedonkatochevska&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
