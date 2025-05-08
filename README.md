@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Makedonka!
 #### Passionate front-end developer who loves turning complex problems into simple, user-friendly designs.
-![Passionate front-end developer who loves turning complex problems into simple, user-friendly designs.](https://i.imghippo.com/files/ZnAQ7495pU.png)
+![Passionate front-end developer who loves turning complex problems into simple, user-friendly designs.](https://i.imghippo.com/files/fsnR5888DM.png)
 
 With over 2+ years of web development and web design experience, I specialize in creating dynamic, high-performance websites through clean and efficient code. I focus on turning complex ideas into seamless, functional digital experiences, ensuring every detail works flawlessly behind the scenes.
 I love solving problems and optimizing systems, whether it’s improving performance or ensuring cross-browser compatibility. The real satisfaction comes from knowing my code powers websites that people interact with daily.
