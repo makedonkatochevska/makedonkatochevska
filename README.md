@@ -28,11 +28,6 @@ I love solving problems and optimizing systems, whether it’s improving perform
 ![Zustand](https://img.shields.io/badge/zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
 ![Context API](https://img.shields.io/badge/context%20api-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![React Router](https://img.shields.io/badge/react%20router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-
-
-
-🌱 I’m currently learning:
-
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 
 
